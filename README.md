@@ -15,9 +15,12 @@ The strategy involves **four simple processes** that you can start anytime and a
 - Track habits that progress toward goals
 - Periodically adjust (not too often)
 
+Throughout this guide there are expandable sections with additional explanations or examples. I suggest reading through without expanding any of them at first, and then coming back to dive deeper in any section as you wish.
+
 <details>
-  <summary>Click to expand optional/additional explanations</summary>
-  On most days we’ll just be practicing our habits, so why do we need these other levels of goals and values? Habit formation can be hard. The other levels help us decide what to do, remember why we’re doing it, and deal with the inevitable complications and possible failures that occur along the way. One guaranteed complication is that values can conflict with each other, and we may raise or lower the priority of different values at different times in our lives.
+  <summary>On most days we’ll just be practicing our habits, so why do we need these other levels of goals and values?</summary>
+   Habit formation can be hard. The other levels help us decide what to do, remember why we’re doing it, and deal with the inevitable complications and possible failures that occur along the way. One guaranteed complication is that values can conflict with each other, and we may raise or lower the priority of different values at different times in our lives.
+  
   
   You can set up these processes in any order. I’ll write about them in the order above, but for example if your starting point is one or more habits that you want to track then you could decide on goals that those habits move you toward and consider which values made you want to start those habits in the first place. Since one of the processes is to readjust you can always come back and change any of these later in whatever order makes sense to you.
 </details>
