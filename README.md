@@ -29,11 +29,11 @@ Throughout this guide there are expandable sections with additional explanations
   I’ll write about them in the order above, but for example if your starting point is one or more habits that you want to track then you could decide on goals that those habits move you toward and consider which values made you want to start those habits in the first place. Since one of the processes is to readjust you can always come back and change any of these later in whatever order makes sense to you.
 </details>
 
-**The most important thing is to start. The second most important thing is to just keep doing it.**
+> The most important thing is to start. The second most important thing is to just keep doing it.
 
 ## Why is this important?
 
-> Things are always changing but we often don’t notice slow changes. This means bad things can sneak up on us through the years of life and generations of human history. We accept many of these as normal because we didn’t notice how bad they’ve gotten. On the plus side, we can also make things better with gradual change if we pay attention and track it. Not noticing slow changes makes us underrate how much freedom we have in life.
+Things are always changing but we often don’t notice slow changes. This means bad things can sneak up on us through the years of life and generations of human history. We accept many of these as normal because we didn’t notice how bad they’ve gotten. On the plus side, we can also make things better with gradual change if we pay attention and track it. Not noticing slow changes makes us underrate how much freedom we have in life.
 
 This is one of the most important lessons I’ve learned so the rest of this section elaborates on it, but please skip to the next section unless you want to read a manifesto.
 
@@ -58,21 +58,25 @@ At any given time if we consider the conditions of humanity in general, or our o
 This idea of perceptual blindness to gradual change is simple and obvious, but its implications are so profound that I believe most of us don’t consider it often enough. Like the inevitability of death, bringing it to the forefront of our minds can make us feel anxious. Any comfort from avoiding that anxiety comes at the cost of living with problems that creep up on us and missing out on potential benefits. Instead of avoidance, we can accept that some things are out of our control (like death), take an honest look at our lives, and commit to actions that pursue the values that are important to us.  
 </details>
 
-**We can live better by developing habits like periodically checking on things for gradual decline or practicing things that create gradual improvement.**
+> We can live better by developing habits like periodically checking on things for gradual decline or practicing things that create gradual improvement.
 
 ## Values: our guiding lights
 
-What’s important to you? Try to answer this question at a high level of generality and abstraction and the answers you come up with will be values. For example, exercising is an important habit for me but the related value is health. I’m interested in this system of habit tracking and living better because of values like progress or self-improvement. There are no rules written in stone about what things can be values, and everyone will answer differently about their values at different times in life or in different circumstances.
+What’s important to you? Try to answer this question at a high level of generality and abstraction and the answers you come up with will be values. For example, exercising is an important habit for me but the related value is health. I’m interested in this system of habit tracking and living better because of values like progress or self-improvement. There are no rules written in stone about what things can be values, and everyone will answer differently about their values at different times in life or in different circumstances. A few examples of values include things like: freedom, creativity, responsibility, love, achievement, equality, fairness, hedonism, health.
 
-> Think of a few values that you currently want to move your life toward, ones that explain the motivations behind your goals and habits
+> Think of a few values that you currently want to move your life toward and that help explain the motivations behind your goals and habits.
 
-For inspiration you can check a few of the lists of values in these links, but don’t spend too long on it because there are deep philosophical waters here and we want to be practical and move on to actions.
+<details>
+  <summary>More lists and examples of values for more inspiration.</summary>
 
-https://en.wikipedia.org/wiki/Theory_of_Basic_Human_Values
+  Don’t spend too long on this step because there are deep philosophical waters here and we want to be practical and move on to actions.  
 
-https://en.wikipedia.org/wiki/Rokeach_Value_Survey
+https://en.wikipedia.org/wiki/Theory_of_Basic_Human_Values  
 
-https://positivepsychology.com/values-clarification/#examples-values-clarification
+https://en.wikipedia.org/wiki/Rokeach_Value_Survey  
+
+https://positivepsychology.com/values-clarification/#examples-values-clarification  
+</details>
 
 I thought of a few categories of values for myself. In truth, I also already have in mind some habits that I want to track and picked some of these values because they explain why I’m interested in those habits.
 
@@ -83,19 +87,27 @@ I thought of a few categories of values for myself. In truth, I also already hav
 
 ## Goals: measuring progress and success
 
-Goals can help us move from abstract values and decide to do something actionable. They can also help us put a daily habit into a larger context. [This article](https://www.strongerbyscience.com/goal-setting/) has a lot of evidence-based tips on goal setting and is worth reading (and re-reading). Here are a few of its tips:
+Goals can help us move from abstract values and decide to do something actionable. They can also help us put a daily habit into a larger context.
+
+> Choose some [identity-based goals](https://jamesclear.com/identity-based-habits) about becoming the kind of person you want to be, the kind of person who lives according to your values.
+
+What will you change to become more like the person you want to be? Try to set goals with a level of difficulty that you can realistically achieve. It's OK to start small and make them more challenging during adjustment.
+
+<details>
+  <summary>More tips and examples about choosing goals.</summary>
+
+[This article](https://www.strongerbyscience.com/goal-setting/) has a lot of evidence-based tips on goal setting and is worth reading (and re-reading). Here are a few of its tips:  
 
 - Imagine everything goes great, you do your best, your life resonates with your values and becomes how you want it to be. What does that life look like, how does that version of you look and act? Now **mentally contrast** that picture with your current life and current self and think about what you could do to get from here to there.
 - **Frame goals positively**, about being or doing more of something rather than less of the opposite. For example “more movement” rather than “less sitting,” or “more meaningful conversations” rather than “less screen time.”
 - **Focus on processes** rather than outcomes. I used to want to squat 4 plates, but circumstances never let me focus on training uninterrupted long enough to get there. Instead of being discouraged about failing an outcome goal like that, my process goal now is to do strength exercises twice a week.
 - Judge success based on **mastery in general** rather than the ability to perform something specific. I’m not too worried that I’ve never squatted 4 plates because I still know that I am generally strong, and right now that’s good enough for my current values.
-- **Goldilocks difficulty**: if it’s too easy it might not actually get you closer to living your values, and if it’s too hard you may feel discouraged and lose motivation.
+- **Goldilocks difficulty**: if it’s too easy it might not actually get you closer to living your values, and if it’s too hard you may feel discouraged and lose motivation.  
 
 Example: based on valuing creativity and appreciation of beauty, I want to get better at drawing or painting. It’s a positive goal, something I want to do more. It’s about process and mastery rather than outcomes or performing too specific a skill. Since I currently have almost no experience with these, getting better at them will be an easy goal in the short term and I will need to adjust the difficulty later. As a mental contrast, an ideal future version of me would be able to get into a creative flow state and make interesting visual art, and to get there I will need a lot of practice so that my current lack of technical skills doesn’t trip me up.
 
-> [Identity-based goals](https://jamesclear.com/identity-based-habits) are about becoming the kind of person you want to be, and habits are the “small wins” that get 
-
 Remember: none of these are hard rules. The most important thing is to just start, and then keep it up. You can always come back and use these tips to refine your goals later when adjusting.
+</details>
 
 ## Habits: keeping on track
 
