@@ -15,7 +15,7 @@ The strategy involves four correlated processes that you can start anytime and a
 - Track habits that progress toward goals
 - Periodically adjust (not too often)
 
-Throughout this guide there are expandable sections with additional explanations or examples. I suggest reading through without expanding any of them at first, and then coming back to dive deeper in any section as you wish.
+Throughout this guide there are expandable sections with additional explanations or examples. These extra credit sections look like the two lines below and **you can expand them by clicking on them, but I suggest reading through without expanding any of them at first**. You can come back afterward to dive deeper in any section as you wish, perhaps when doing a periodic adjustment after the first week or month of tracking.
 
 <details>
   <summary>On most days we’ll just be practicing our habits, so why do we need these other levels of goals and values?</summary>
@@ -158,14 +158,36 @@ It can be kept simple with just a few habits and a single mark on each day that 
 
 > Choose a few habits to make progress toward your goals and create a template for tracking, preferably using pen and paper.
 
-## Adjust as needed
+## Adjust periodically or as needed
 
-Drift, auditing the honesty/accuracy to make sure it doesn’t just become about checking boxes,
+On the one hand there are benefits to consistency, especially when forming habits. But on the other hand, there is a tendency to stagnate if we don't increase the level of challenge, or a danger of too much failure and discouragement if a certain goal or habit turns out to be more challenging than we planned. Periodic adjustment can help us find the right balance and stay on track.
+
+<details>
+  <summary>Some common adjustment issues</summary>
+  
+- Time availability and energy levels will vary and some habits become easier or harder as a result
+- There will be circumstances outside of our control and we may need to compromise on some values to prioritize others
+- We will learn and change as a person and decide to change our values or goals
+- There can be a temptation to "go through the motions," doing habits with minimal effort, gaming the system, losing sight of the higher levels of goals and values and focusing on checking off boxes
+</details>
+
+Adjustments should be less frequent as we go up in the hierarchy of habits, goals, and values. Adjustments to values should be least frequent and will probably require adjusting everything else. When first starting a habit we may need to adjust it more often due to inaccurate starting guesses or rapid beginner's progress. 
+
+> Make adjustments, perhaps once per month. Reflect on how you have changed and how you want to continue. Modify frequency or details of habits or how you track them. Increase challenge when possible, decrease if truly necessary. Keep yourself honest and remember the context of your values.
 
 ## Habit suggestions
 
-I'll conclude with a few habits that I've personally found very beneficial. I'd be happy to hear from you if you have suggestions!
+These are a few habits I've personally found very beneficial. I'd be happy to hear from you if you have suggestions!
 
-- "[Nutritious movement](https://www.youtube.com/watch?v=eeN8efGa6C0)" throughout the day and with a variety of cardio and strength
-- Regularly scheduled reminders to catch up with social connections
+- "[Nutritious movement](https://www.youtube.com/watch?v=eeN8efGa6C0)" throughout the day, and a variety of cardio and strength throughout the week
+- Regularly scheduled reminders to catch up with people (social connection)
 - Going for an aimless walk, preferably in nature
+- Journaling
+
+## Getting started
+
+- Start small, maybe with 3-5 habits based on 2-3 goals and 1-2 values.
+- Keep it simple, like with this [template](https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habit+Tracker.pdf). It should only take a few seconds to check boxes each day.
+- Start now, don't wait for better starting conditions.
+- Come back here in a week or two and read some of the expandable sections when doing your first periodic adjustment. Decrease frequency of adjustments after that.
+- Try to change your sense of self and develop an identity around your values and goals, and be socially open about this. I would personally be happy to hear from anyone who is trying to live better this way and finds it beneficial.
