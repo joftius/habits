@@ -132,11 +132,23 @@ https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habit+Tracker.pdf
 This gives an immediate visual sense of how much each habit is on track, and whether any of them need more attention and effort. It can be kept simple with just a few habits and a single mark on each day that habit was done, or made more complicated with several groups of color coded habits arranged by time frequency and using different kinds of marks for different degrees of success. For example, I track cardio exercise on one line, using a single slash for a satisfactory day and an X mark for an extra credit day (if I did something more high-intensity or longer distance).
 </details>
 
-| August        | 1 | 2 | 3 | 4 |
-| ------------- |:---:|:---:|:---:|:---:|
-| col 3 is      | right-aligned | $1600 | x | x |
-| col 2 is      | centered      |   $12 | x | x |
-| zebra stripes | are neat      |    $1 | x | x |
+> Choose a few habits to make progress toward your goals and create a template for tracking, preferably using pen and paper
+
+Here's an example of a template that uses one page for each month, one line for each habit, and a check or other kind of mark on each day the habit is satisfied. I've also indicated whether the habit is supposed to be daily (D), weekly (W), or some number of times per week. Some longer time periods like monthly habits might make more sense to schedule for a certain day on a calendar instead.
+
+| August | 1 | 2 | 3 | 4 | 5 | ... | 30 | 31 |
+| ------ |:---:|:---:|:---:|:---:|:---:|:---:|
+| (D) Journal | / | / | 
+| (5) Cardio |  | / | / | x |  | / |  |
+| (4) Work writing | 
+| (3) Work reading | 
+| (2) Strength | 
+| (3) Floss | 
+| (2) Social calls | 
+| (2) Read book | 
+| (3) Language | 
+| (W) Blog | 
+| (W) 
 
 ## Adjust as needed
 
