@@ -138,7 +138,11 @@ Here's an example of a template that uses one page for each month, one line for 
 
 | August | 1 | 2 | 3 | 4 | 5 | ... | 30 | 31 |
 | ------ |:---:|:---:|:---:|:---:|:---:|:---:|
-| (D) Journal | / | / | / | / | / | / | / | / |
+| (D) Journal | [x] | [x] | [x] | [x] | [x] | [x] | [x] | [x] |
+
+
+hello
+
 | (5) Cardio |  | / | / | x |  | / |  | / |
 
 | (4) Work writing | 
