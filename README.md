@@ -4,6 +4,8 @@
 
 This is a quickstart guide to a practical way of trying to live better. It’s based on things I’ve learned from various sources[^1] and life experiences[^2], and I hope it will be useful to you.
 
+TODO: bit of intro story about why I wrote this and why anyone should care and read this instead of literally any random linkedin post
+
 [^1]: I’ve combined and simplified some ideas including goal hierarchy and other tips from [Stronger By Science](https://www.strongerbyscience.com/goal-setting/), making the goal hierarchy about values and actions based on [Acceptance and Commitment Therapy](https://en.wikipedia.org/wiki/Acceptance_and_commitment_therapy#Core_principles) (h/t also to [Diana Hill and Katie Bowman](https://drdianahill.com/captivate-podcast/how-to-move-your-body-more-nutritiously-with-katy-bowman/), and habit tracking and other tips from [James Clear](https://jamesclear.com/habit-tracker).
 
 [^2]: Basically trying to manage work-life balance in an academic career, a decade of maintaining rigorous exercise habits, and some more recent successes with reading and journaling.
