@@ -10,37 +10,42 @@ This is a quickstart guide to a practical way of trying to live better. It’s b
 
 The strategy involves four correlated processes that you can start anytime and adapt to your life and intentions.
 
-- Reflect on values
-- Set goals related to values
-- Track habits that progress toward goals
-- Periodically adjust (not too often)
+- Reflect on values.
+- Set goals related to values.
+- Track habits that progress toward goals.
+- Periodically adjust (not too often).
 
-There are explanations and tips about each of these below, but first let's look at a simple example so we have a picture in mind of how it works.
+Let's look at a simple example so we have a picture in mind of how it works, and then we'll go into more detail about the process.
 
 ### Example
 
-#### My values
+#### Some values
 
-Health, learning, connection, achievement
+Health, learning, connection, achievement.
 
-#### My goals
+#### Some goals
 
-- Be the kind of person who exercises regularly, eats well, and takes care of my mind and environment
-- Be the kind of person who writes to reinforce learning, learns new languages,
+- Be the kind of person who exercises regularly, eats well, and takes care of their mind and environment.
+- Be the kind of person who writes to reinforce learning, learns new languages.
+- Be the kind of person who stays in touch with friends and family members and has an active social life.
 
-#### My habit tracker
+#### Habit tracker
+
+This uses one page each month, one line for each habit, one column for each day, and some mark to indicate success for that habit on that day.
 
 | August           | 1 | 2 | 3 | 4 | 5 | 6 | 7 | ... | 30 | 31 |
 | ---------------- |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:---:|:--:|:--:|
-| (D) Journal      | / | / |   | / | / | / | / | ... | /  | /  |
-| (5) Cardio       |   | / | / | x |   | / |   | ... |    | /  |
-| (2) Strength     | / |   |   |   | / |   |   | ... |    | /  |
-| (W) Meal prep    | / |   |   |   |   |   |   | ... |    |    |
-| (W) Chores       |   |   |   |   |   |   | / | ... |    |    |
-| (4) Work writing |   |   | / | / |   | / | / | ... | /  |    |
-| (3) Language     |   |   |   | / |   |   | / | ... | /  |    |
-| (W) Blog         |   |   |   |   |   |   | / | ... |    |    |
-| (2) Social calls |   |   |   | / |   |   | / | ... |    |    |
+| (D) Journal      | x | x |   | x | x | x | x | ... | x  | x  |
+| (5) Cardio       |   | x | x | x |   | x |   | ... |    | x  |
+| (2) Strength     | x |   |   |   | x |   |   | ... |    | x  |
+| (W) Meal prep    | x |   |   |   |   |   |   | ... |    |    |
+| (W) Chores       |   |   |   |   |   |   | x | ... |    | x  |
+| (4) Work writing |   |   | x | x |   | x | x | ... |    |    |
+| (3) Language     |   |   |   | x |   |   | x | ... | x  |    |
+| (W) Blog         |   |   |   |   |   |   | x | ... |    |    |
+| (2) Social calls |   |   |   | x |   |   | x | ... |    |    |
+
+
 
 ### Understanding each process
 
@@ -78,7 +83,7 @@ This is one of the most important lessons I’ve learned so the rest of this sec
 </details>
 
 <details>
-  <summary>Background philosophy and worldview</summary>
+  <summary>Background philosophy and worldview.</summary>
     
 Each generation only experiences its own unique historical conditions. We can’t directly compare our lives to living a hundred or thousand years earlier. We can’t even clearly remember what our daily experience felt like a few years ago. Since we don’t see what is different about our living conditions, we easily slip into taking them for granted. At any given time if we consider the conditions of humanity in general, or our own lives, many of those conditions will be results of gradual change that we did not notice. Much of what we believe to be natural, inevitable, and unchangeable is really arbitrary, accidental, and flexible. Life is much more flexible and conditions we currently see as natural or inevitable will almost certainly change beyond recognition. There may be a huge amount of benefit within our reach or dangers approaching undetected.  
 
@@ -87,7 +92,7 @@ This idea of perceptual blindness to gradual change is simple and obvious, but i
 
 > The nature of our subjective experiences means we can slip into being poor judges of how things are going in our lives without high quality external feedback. We may be able live much better by developing habits like periodically checking on things for gradual decline or practicing things that create gradual improvement.
 
-## Values: our guiding lights
+## Values: our guiding lights.
 
 What’s important to you? Try to answer this question at a high level of generality and abstraction and the answers you come up with will be values. For example, exercising and healthy eating are important habits for me but the related value is health. I’m interested in this system of habit tracking and living better because of values like progress or self-improvement. There are no rules written in stone about what things can be values, and everyone will answer differently about their values at different times in life or in different circumstances. More examples of values: freedom, creativity, responsibility, love, achievement, equality, fairness, hedonism, kindness.
 
@@ -105,14 +110,14 @@ https://positivepsychology.com/values-clarification/#examples-values-clarificati
 
 I thought of a few categories of values for myself. In truth, I also already have in mind some habits that I want to track and picked some of these values because they explain why I’m interested in those habits.
 
-- Professional: growth, competency, productivity/contribution
-- Aesthetic: appreciating beauty, creativity, freedom
-- Health: physical fitness, mental sharpness, cleanliness, organization
-- Social: connection, empathy, sharing happiness with others
+- Professional: growth, competency, productivity/contribution.
+- Aesthetic: appreciating beauty, creativity, freedom.
+- Health: physical fitness, mental sharpness, cleanliness, organization.
+- Social: connection, empathy, sharing happiness with others.
 
 > Write down a few values that you currently want to move your life toward and that help explain the motivations behind your goals and habits.
 
-## Goals: measuring progress and success
+## Goals: measuring progress and success.
 
 Goals can help us move from abstract values and decide to do something actionable. They can also help us put a daily habit into a larger context. What would you need to change to become more like the kind of person you want to be? Try to set goals with a level of difficulty that you can realistically achieve. It's OK to start small and make them more challenging during adjustment.
 
@@ -134,68 +139,64 @@ Remember: none of these are hard rules. The most important thing is to just star
 
 > Choose some [identity-based goals](https://jamesclear.com/identity-based-habits) about becoming the kind of person you want to be, the kind of person who lives according to your values.
 
-## Habits: keeping on track
+## Habits: keeping on track.
 
 Good habits are behaviors that, if repeated, help us reach our goals and live according to our values. Some goals are simple and specific enough that they are habits themselves, e.g. doing strength exercises twice a week. Other goals need a bit more translation into repeated actions, e.g. learning Chinese could mean practicing listening, reading, and speaking on different days of the week.
 
 <details>
-  <summary>Habit time periods and examples</summary>
+  <summary>Habit time periods and examples.</summary>
 
-  - Some habits work best if done essentially every day, like brushing teeth or journaling
-  - Some work better every two or three days, like strength exercises alternating with rest days
-  - Some work well if done almost daily but are forgiving if we miss a day or two per week, like cardio exercise
-  - Some make sense once per week or month, like staying in touch with friends and family members, or certain cleaning chores
+  - Some habits work best if done essentially every day, like brushing teeth or journaling.
+  - Some work better every two or three days, like strength exercises alternating with rest days.
+  - Some work well if done almost daily but are forgiving if we miss a day or two per week, like cardio exercise.
+  - Some make sense once per week or month, like staying in touch with friends and family members, or certain cleaning chores.
 </details>
 
 > The most important thing about habits is sticking to them. The second most important thing is to get back on track as soon as possible when the first one fails. For both of these, tracking habits with a system that keeps us honest is essential.
 
 <details>
-  <summary>Rationale for using a simple pen and paper system</summary>
+  <summary>Rationale for using a simple pen and paper system.</summary>
   
 I’ve tried to start various exercise habits over the years and they never stuck, with one exception. The one time I tracked the habit it stuck, and I’ve kept it up for about ten years now. We want to track multiple habits with a system as simple and easy to use as possible. Some people use apps or spreadsheets for this, but I highly recommend keeping it old fashioned with pen and paper. One reason is that many values and habits can be threatened by using internet connected devices which are full of distractions. Another reason is that using such ancient technology makes it feel special, it’s a ritual with a different context from all the other entertainment consumption or work messages on screens.
 </details>
 
-I’m using pages of the habit tracker template by James Clear  
-
-https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habit+Tracker.pdf  
-
-It looks something like the table in the intro section. This gives an immediate visual sense of how much each habit is on track, and whether any of them need more attention and effort.
+I’m using pages of the [habit tracker template](https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habit+Tracker.pdf ) by James Clear. It looks something like the table in the intro section. This gives an immediate visual sense of how much each habit is on track, and whether any of them need more attention and effort.
 
 <details>
-  <summary>It's best to keep it simple, but here are some more ideas you might use</summary>
+  <summary>It's best to keep it simple, but here are some more ideas you might use.</summary>
   
   I've indicated whether the habit target is daily (D), weekly (W), or some number of times per week. Longer time periods like monthly habits might make more sense to schedule for a certain day on a calendar instead. I used different marks for some habits, where / indicates a normal cardio workout and x indicates an intense one (HIIT). The habits can be arranged vertically by frequency, grouped together based on similar goals or values, color coded, etc. But do remember to keep it simple so it's very fast and easy to update each day and you don't need to remember a lot of details while using it.
 </details>
 
 > Choose a few habits to make progress toward your goals and create a template for tracking, preferably using pen and paper.
 
-## Adjust periodically or as needed
+## Adjust periodically or as needed.
 
 On the one hand there are benefits to consistency, especially when forming habits. But on the other hand, there is a tendency to stagnate if we don't increase the level of challenge, or a danger of too much failure and discouragement if a certain goal or habit turns out to be more challenging than we planned. Periodic adjustment can help us find the right balance and stay on track.
 
 <details>
-  <summary>Some common adjustment issues</summary>
+  <summary>Some common adjustment issues.</summary>
   
-- Time availability and energy levels will vary and some habits become easier or harder as a result
-- There will be circumstances outside of our control and we may need to compromise on some values to prioritize others
-- We will learn and change as a person and decide to change our values or goals
-- There can be a temptation to "go through the motions," doing habits with minimal effort, gaming the system, losing sight of the higher levels of goals and values and focusing on checking off boxes
+- Time availability and energy levels will vary and some habits become easier or harder as a result.
+- There will be circumstances outside of our control and we may need to compromise on some values to prioritize others.
+- We will learn and change as a person and decide to change our values or goals.
+- There can be a temptation to "go through the motions," doing habits with minimal effort, gaming the system, losing sight of the higher levels of goals and values and focusing on checking off boxes.
 </details>
 
 Adjustments should be less frequent as we go up in the hierarchy of habits, goals, and values. Adjustments to values should be least frequent and will probably require adjusting everything else. When first starting a habit we may need to adjust it more often due to inaccurate starting guesses or rapid beginner's progress. 
 
 > Make adjustments, perhaps once per month. Reflect on how you have changed and how you want to continue. Modify frequency or details of habits or how you track them. Increase challenge when possible, decrease if truly necessary. Keep yourself honest and remember the context of your values.
 
-## Habit suggestions
+## Habit suggestions.
 
 These are a few habits I've personally found very beneficial. I'd be happy to hear from you if you have suggestions!
 
-- "[Nutritious movement](https://www.youtube.com/watch?v=eeN8efGa6C0)" throughout the day, and a variety of cardio and strength throughout the week
-- Regularly scheduled reminders to catch up with people (social connection)
-- Going for an aimless walk, preferably in nature
-- Journaling
+- "[Nutritious movement](https://www.youtube.com/watch?v=eeN8efGa6C0)" throughout the day, and a variety of cardio and strength throughout the week.
+- Regularly scheduled reminders to catch up with people (social connection).
+- Going for an aimless walk, preferably in nature.
+- Journaling.
 
-## Getting started
+## Getting started.
 
 - Start small, maybe with 3-5 habits based on 2-3 goals and 1-2 values.
 - Focus more on habits at first and don't overthink goals or values. The hierarchy becomes more helpful later when making adjustments.
