@@ -106,14 +106,14 @@ https://en.wikipedia.org/wiki/Theory_of_Basic_Human_Values
 https://en.wikipedia.org/wiki/Rokeach_Value_Survey  
 
 https://positivepsychology.com/values-clarification/#examples-values-clarification  
-</details>
-
-I thought of a few categories of values for myself. In truth, I also already have in mind some habits that I want to track and picked some of these values because they explain why I’m interested in those habits.
+  
+I thought of a few categories of values for myself. In truth, I also already have in mind some habits that I want to track and picked some of these values because they explain why I’m interested in those habits.  
 
 - Professional: growth, competency, productivity/contribution.
 - Aesthetic: appreciating beauty, creativity, freedom.
 - Health: physical fitness, mental sharpness, cleanliness, organization.
 - Social: connection, empathy, sharing happiness with others.
+</details>
 
 > Write down a few values that you currently want to move your life toward and that help explain the motivations behind your goals and habits.
 
@@ -181,9 +181,9 @@ On the one hand there are benefits to consistency, especially when forming habit
 - There will be circumstances outside of our control and we may need to compromise on some values to prioritize others.
 - We will learn and change as a person and decide to change our values or goals.
 - There can be a temptation to "go through the motions," doing habits with minimal effort, gaming the system, losing sight of the higher levels of goals and values and focusing on checking off boxes.
-</details>
-
-Adjustments should be less frequent as we go up in the hierarchy of habits, goals, and values. Adjustments to values should be least frequent and will probably require adjusting everything else. When first starting a habit we may need to adjust it more often due to inaccurate starting guesses or rapid beginner's progress. 
+- Adjustments should be less frequent as we go up in the hierarchy of habits, goals, and values. Adjustments to values should be least frequent and will probably require adjusting everything else.
+- When first starting a habit we may need to adjust it more often due to inaccurate starting guesses or rapid beginner's progress.
+</details> 
 
 > Make adjustments, perhaps once per month. Reflect on how you have changed and how you want to continue. Modify frequency or details of habits or how you track them. Increase challenge when possible, decrease if truly necessary. Keep yourself honest and remember the context of your values.
 
