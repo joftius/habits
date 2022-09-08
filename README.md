@@ -137,7 +137,7 @@ This gives an immediate visual sense of how much each habit is on track, and whe
 Here's an example of a template that uses one page for each month, one line for each habit, and a check or other kind of mark on each day the habit is satisfied. I've also indicated whether the habit is supposed to be daily (D), weekly (W), or some number of times per week. Some longer time periods like monthly habits might make more sense to schedule for a certain day on a calendar instead.
 
 | August | 1 | 2 | 3 | 4 | 5 | ... | 30 | 31 |
-| ------ |:---:|:---:|:---:|:---:|:---:|:---:|
+| ------ |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | (D) Journal | [x] | [x] | [x] | [x] | [x] | [x] | [x] | [x] |
 
 
