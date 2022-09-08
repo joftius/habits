@@ -62,7 +62,7 @@ This idea of perceptual blindness to gradual change is simple and obvious, but i
 
 ## Values: our guiding lights
 
-What’s important to you? Try to answer this question at a high level of generality and abstraction and the answers you come up with will be values. For example, exercising is an important habit for me but the related value is health. I’m interested in this system of habit tracking and living better because of values like progress or self-improvement. There are no rules written in stone about what things can be values, and everyone will answer differently about their values at different times in life or in different circumstances. A few examples of values include things like: freedom, creativity, responsibility, love, achievement, equality, fairness, hedonism, health.
+What’s important to you? Try to answer this question at a high level of generality and abstraction and the answers you come up with will be values. For example, exercising is an important habit for me but the related value is health. I’m interested in this system of habit tracking and living better because of values like progress or self-improvement. There are no rules written in stone about what things can be values, and everyone will answer differently about their values at different times in life or in different circumstances. More examples of values: freedom, creativity, responsibility, love, achievement, equality, fairness, hedonism, kindness.
 
 > Think of a few values that you currently want to move your life toward and that help explain the motivations behind your goals and habits.
 
