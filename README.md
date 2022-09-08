@@ -8,7 +8,7 @@ This is a quickstart guide to a practical way of trying to live better. It’s b
 
 [^2]: Basically trying to manage work-life balance in an academic career, a decade of maintaining rigorous exercise habits, and some more recent successes with reading and journaling.
 
-The strategy involves **four simple processes** that you can start anytime and adapt to your life and intentions.
+The strategy involves four correlated processes that you can start anytime and adapt to your life and intentions.
 
 - Reflect on values
 - Set goals related to values
@@ -25,7 +25,7 @@ Throughout this guide there are expandable sections with additional explanations
   You can set up these processes in any order. I’ll write about them in the order above, but for example if your starting point is one or more habits that you want to track then you could decide on goals that those habits move you toward and consider which values made you want to start those habits in the first place. Since one of the processes is to readjust you can always come back and change any of these later in whatever order makes sense to you.
 </details>
 
-The most important thing is to start. The second most important thing is to just keep doing it.
+**The most important thing is to start. The second most important thing is to just keep doing it**.
 
 ## Why is this important?
 
