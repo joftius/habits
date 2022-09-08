@@ -64,8 +64,6 @@ This idea of perceptual blindness to gradual change is simple and obvious, but i
 
 What’s important to you? Try to answer this question at a high level of generality and abstraction and the answers you come up with will be values. For example, exercising is an important habit for me but the related value is health. I’m interested in this system of habit tracking and living better because of values like progress or self-improvement. There are no rules written in stone about what things can be values, and everyone will answer differently about their values at different times in life or in different circumstances. More examples of values: freedom, creativity, responsibility, love, achievement, equality, fairness, hedonism, kindness.
 
-> Think of a few values that you currently want to move your life toward and that help explain the motivations behind your goals and habits.
-
 <details>
   <summary>More lists and examples of values for more inspiration.</summary>
 
@@ -85,16 +83,14 @@ I thought of a few categories of values for myself. In truth, I also already hav
 - Health: physical fitness, mental sharpness, cleanliness, organization
 - Social: connection, empathy, sharing happiness with others
 
+> Write down a few values that you currently want to move your life toward and that help explain the motivations behind your goals and habits.
+
 ## Goals: measuring progress and success
 
-Goals can help us move from abstract values and decide to do something actionable. They can also help us put a daily habit into a larger context.
-
-> Choose some [identity-based goals](https://jamesclear.com/identity-based-habits) about becoming the kind of person you want to be, the kind of person who lives according to your values.
-
-What will you change to become more like the person you want to be? Try to set goals with a level of difficulty that you can realistically achieve. It's OK to start small and make them more challenging during adjustment.
+Goals can help us move from abstract values and decide to do something actionable. They can also help us put a daily habit into a larger context. What would you need to change to become more like the kind of person you want to be? Try to set goals with a level of difficulty that you can realistically achieve. It's OK to start small and make them more challenging during adjustment.
 
 <details>
-  <summary>More tips and examples about choosing goals.</summary>
+  <summary>Additional tips and examples about goal setting.</summary>
 
 [This article](https://www.strongerbyscience.com/goal-setting/) has a lot of evidence-based tips on goal setting and is worth reading (and re-reading). Here are a few of its tips:  
 
@@ -109,19 +105,38 @@ Example: based on valuing creativity and appreciation of beauty, I want to get b
 Remember: none of these are hard rules. The most important thing is to just start, and then keep it up. You can always come back and use these tips to refine your goals later when adjusting.
 </details>
 
+> Choose some [identity-based goals](https://jamesclear.com/identity-based-habits) about becoming the kind of person you want to be, the kind of person who lives according to your values.
+
 ## Habits: keeping on track
 
 Good habits are behaviors that, if repeated, help us reach our goals and live according to our values. Some goals are simple and specific enough that they are habits themselves, e.g. doing strength exercises twice a week. Other goals need a bit more translation into repeated actions, e.g. learning Chinese could mean practicing listening, reading, and speaking on different days of the week.
 
-Examples based on time periods: some habits work best if done essentially every day, like brushing teeth or journaling. Some work better every two or three days, like strength exercises alternating with rest days. Some work well if done almost daily but are forgiving if we miss a day or two per week, like cardio exercise. And finally, some make more sense to do once per week or month, like staying in touch with friends and family members or doing certain cleaning chores.
+<details>
+  <summary>Habit time periods and examples</summary>
+
+  - Some habits work best if done essentially every day, like brushing teeth or journaling
+  - Some work better every two or three days, like strength exercises alternating with rest days
+  - Some work well if done almost daily but are forgiving if we miss a day or two per week, like cardio exercise
+  - Some make sense once per week or month, like staying in touch with friends and family members, or certain cleaning chores
+</details>
 
 > The most important thing about habits is sticking to them. The second most important thing is to get back on track as soon as possible when the first one fails. For both of these, tracking habits with a system that keeps us honest is essential.
 
-I’ve tried to start various exercise habits over the years and they never stuck, with one exception. The one time I tracked the habit it stuck, and I’ve kept it up for about ten years now. We want to track multiple habits with a system as simple and easy to use as possible. Some people use apps or spreadsheets for this, but I highly recommend keeping it old fashioned with pen and paper. One reason is that many values and habits can be threatened by using internet connected devices which are full of distractions. Another reason is that using such ancient technology makes it feel special, it’s a ritual with a different context from all the other entertainment consumption or work messages on screens. I’m using pages of the habit tracker template by James Clear
+<details>
+  <summary>Rationale for using a simple pen and paper system</summary>
+  
+I’ve tried to start various exercise habits over the years and they never stuck, with one exception. The one time I tracked the habit it stuck, and I’ve kept it up for about ten years now. We want to track multiple habits with a system as simple and easy to use as possible. Some people use apps or spreadsheets for this, but I highly recommend keeping it old fashioned with pen and paper. One reason is that many values and habits can be threatened by using internet connected devices which are full of distractions. Another reason is that using such ancient technology makes it feel special, it’s a ritual with a different context from all the other entertainment consumption or work messages on screens. I’m using pages of the habit tracker template by James Clear  
 
-https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habit+Tracker.pdf
+https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habit+Tracker.pdf  
 
 This gives an immediate visual sense of how much each habit is on track, and whether any of them need more attention and effort. It can be kept simple with just a few habits and a single mark on each day that habit was done, or made more complicated with several groups of color coded habits arranged by time frequency and using different kinds of marks for different degrees of success. For example, I track cardio exercise on one line, using a single slash for a satisfactory day and an X mark for an extra credit day (if I did something more high-intensity or longer distance).
+</details>
+
+| August        | 1 | 2 | 3 | 4 |
+| ------------- |:---:|:---:|:---:|:---:|
+| col 3 is      | right-aligned | $1600 | x | x |
+| col 2 is      | centered      |   $12 | x | x |
+| zebra stripes | are neat      |    $1 | x | x |
 
 ## Adjust as needed
 
