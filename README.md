@@ -1,21 +1,26 @@
 # habits
-Habit tracking based on goals and values
 
+## Habit tracking based on goals and values
 
-This is a quickstart guide to a practical way of trying to live better. It’s based on things I’ve learned from various sources and life experiences, and I hope it will be useful to you.
+This is a quickstart guide to a practical way of trying to live better. It’s based on things I’ve learned from various sources[^1] and life experiences[^2], and I hope it will be useful to you.
 
-Footnote: I’ve combined and tried to simplify some ideas including [goal hierarchy](https://www.strongerbyscience.com/goal-setting/) and other tips from Stronger By Science, [actions based on values](https://en.wikipedia.org/wiki/Acceptance_and_commitment_therapy#Core_principles) from Acceptance and Commitment Therapy (thanks also to [Diana Hill and Katie Bowman](https://drdianahill.com/captivate-podcast/how-to-move-your-body-more-nutritiously-with-katy-bowman/), and [habit tracking](https://jamesclear.com/habit-tracker) and other tips from James Clear.
+[^1]: I’ve combined and simplified some ideas including goal hierarchy and other tips from [Stronger By Science](https://www.strongerbyscience.com/goal-setting/), making the goal hierarchy about values and actions based on [Acceptance and Commitment Therapy](https://en.wikipedia.org/wiki/Acceptance_and_commitment_therapy#Core_principles) (h/t also to [Diana Hill and Katie Bowman](https://drdianahill.com/captivate-podcast/how-to-move-your-body-more-nutritiously-with-katy-bowman/), and habit tracking and other tips from [James Clear](https://jamesclear.com/habit-tracker).
 
-The strategy involves four simple processes that you can start anytime and adapt to your life and intentions.
+[^2]: Basically trying to manage work-life balance in an academic career, a decade of maintaining rigorous exercise habits, and some more recent successes with reading and journaling.
+
+The strategy involves **four simple processes** that you can start anytime and adapt to your life and intentions.
 
 - Reflect on values
 - Set goals related to values
 - Track habits that progress toward goals
 - Periodically adjust (not too often)
 
-On most days we’ll just be practicing our habits, so why do we need these other levels of goals and values? Habit formation can be hard. The other levels help us decide what to do, remember why we’re doing it, and deal with the inevitable complications and possible failures that occur along the way. One guaranteed complication is that values can conflict with each other, and we may raise or lower the priority of different values at different times in our lives.
-
-You can set up these processes in any order. I’ll write about them in the order above, but for example if your starting point is one or more habits that you want to track then you could decide on goals that those habits move you toward and consider which values made you want to start those habits in the first place. Since one of the processes is to readjust you can always come back and change any of these later in whatever order makes sense to you.
+<details>
+  <summary>Click to expand optional/additional explanations</summary>
+  On most days we’ll just be practicing our habits, so why do we need these other levels of goals and values? Habit formation can be hard. The other levels help us decide what to do, remember why we’re doing it, and deal with the inevitable complications and possible failures that occur along the way. One guaranteed complication is that values can conflict with each other, and we may raise or lower the priority of different values at different times in our lives.
+  
+  You can set up these processes in any order. I’ll write about them in the order above, but for example if your starting point is one or more habits that you want to track then you could decide on goals that those habits move you toward and consider which values made you want to start those habits in the first place. Since one of the processes is to readjust you can always come back and change any of these later in whatever order makes sense to you.
+</details>
 
 The most important thing is to start. The second most important thing is to just keep doing it.
 
