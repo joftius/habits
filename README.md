@@ -137,15 +137,15 @@ This gives an immediate visual sense of how much each habit is on track, and whe
 Here's an example of a template that uses one page for each month, one line for each habit, and a check or other kind of mark on each day the habit is satisfied.
 
 | August           | 1 | 2 | 3 | 4 | 5 | 6 | 7 | ... | 30 | 31 |
-| ---------------- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| (D) Journal      | / | / |   | / | / | / | / | ... | / | / |
-| (5) Cardio       |   | / | / | x |   | / |   | ... |   | / |
-| (4) Work writing |   |   | / | / |   | / | / | ... | / |   |
-| (2) Strength     | / |   |   |   | / |   |   | ... |   | / |
-| (3) Floss        | / |   | / |   | / | / |   | ... | / |   |
-| (2) Social calls |   |   |   | / |   |   | / | ... |   |   |
-| (3) Language     |   |   |   | / |   |   | / | ... |   |   |
-| (W) Blog         |   |   |   | / |   |   | / | ... |   |   |
+| ---------------- |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:---:|:--:|:--:|
+| (D) Journal      | / | / |   | / | / | / | / | ... | /  | /  |
+| (5) Cardio       |   | / | / | x |   | / |   | ... |    | /  |
+| (4) Work writing |   |   | / | / |   | / | / | ... | /  |    |
+| (2) Strength     | / |   |   |   | / |   |   | ... |    | /  |
+| (3) Floss        | / |   | / |   | / | / |   | ... | /  |    |
+| (2) Social calls |   |   |   | / |   |   | / | ... |    |    |
+| (3) Language     |   |   |   | / |   |   | / | ... |    |    |
+| (W) Blog         |   |   |   | / |   |   | / | ... |    |    |
 
 It's probably best to start simple and not over-complicate the system, but I've also indicated whether the habit target is daily (D), weekly (W), or some number of times per week. Longer time periods like monthly habits might make more sense to schedule for a certain day on a calendar instead. Finally, I also used different marks for some habits, where / indicates a normal cardio workout and x indicates an intense one (HIIT).
 
