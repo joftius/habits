@@ -15,7 +15,7 @@ The strategy involves four correlated processes that you can start anytime and a
 - Track habits that progress toward goals
 - Periodically adjust (not too often)
 
-Throughout this guide there are expandable sections with additional explanations or examples. These extra credit sections look like the two lines below and **you can expand them by clicking on them, but I suggest reading through without expanding any of them at first**. You can come back afterward to dive deeper in any section as you wish, perhaps when doing a periodic adjustment after the first week or month of tracking.
+Throughout this guide there are expandable sections with additional explanations or examples. These extra credit sections look like the two lines below and **you can expand them by clicking on them, but I suggest reading through without expanding any of them at first**. You can come back afterward to dive deeper in any section as you wish, perhaps when doing a periodic adjustment after the first week or month of tracking. 
 
 <details>
   <summary>On most days we’ll just be practicing our habits, so why do we need these other levels of goals and values?</summary>
@@ -185,6 +185,7 @@ These are a few habits I've personally found very beneficial. I'd be happy to he
 ## Getting started
 
 - Start small, maybe with 3-5 habits based on 2-3 goals and 1-2 values.
+- Focus more on habits at first and don't overthink goals or values. The hierarchy becomes more helpful later when making adjustments.
 - Keep it simple, like with this [template](https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habit+Tracker.pdf). It should only take a few seconds to check boxes each day.
 - Start now, don't wait for better starting conditions.
 - Come back here in a week or two and read some of the expandable sections when doing your first periodic adjustment. Decrease frequency of adjustments after that.
