@@ -125,16 +125,17 @@ Good habits are behaviors that, if repeated, help us reach our goals and live ac
 <details>
   <summary>Rationale for using a simple pen and paper system</summary>
   
-I’ve tried to start various exercise habits over the years and they never stuck, with one exception. The one time I tracked the habit it stuck, and I’ve kept it up for about ten years now. We want to track multiple habits with a system as simple and easy to use as possible. Some people use apps or spreadsheets for this, but I highly recommend keeping it old fashioned with pen and paper. One reason is that many values and habits can be threatened by using internet connected devices which are full of distractions. Another reason is that using such ancient technology makes it feel special, it’s a ritual with a different context from all the other entertainment consumption or work messages on screens. I’m using pages of the habit tracker template by James Clear  
+I’ve tried to start various exercise habits over the years and they never stuck, with one exception. The one time I tracked the habit it stuck, and I’ve kept it up for about ten years now. We want to track multiple habits with a system as simple and easy to use as possible. Some people use apps or spreadsheets for this, but I highly recommend keeping it old fashioned with pen and paper. One reason is that many values and habits can be threatened by using internet connected devices which are full of distractions. Another reason is that using such ancient technology makes it feel special, it’s a ritual with a different context from all the other entertainment consumption or work messages on screens.
+</details>
+
+I’m using pages of the habit tracker template by James Clear  
 
 https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habit+Tracker.pdf  
 
-This gives an immediate visual sense of how much each habit is on track, and whether any of them need more attention and effort. It can be kept simple with just a few habits and a single mark on each day that habit was done, or made more complicated with several groups of color coded habits arranged by time frequency and using different kinds of marks for different degrees of success. For example, I track cardio exercise on one line, using a single slash for a satisfactory day and an X mark for an extra credit day (if I did something more high-intensity or longer distance).
-</details>
+It looks something like the table below which gives an immediate visual sense of how much each habit is on track, and whether any of them need more attention and effort.
 
-> Choose a few habits to make progress toward your goals and create a template for tracking, preferably using pen and paper
+It can be kept simple with just a few habits and a single mark on each day that habit was done, or made more complicated with several  and using different kinds of marks for different degrees of success.
 
-Here's an example of a template that uses one page for each month, one line for each habit, and a check or other kind of mark on each day the habit is satisfied.
 
 | August           | 1 | 2 | 3 | 4 | 5 | 6 | 7 | ... | 30 | 31 |
 | ---------------- |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:---:|:--:|:--:|
@@ -144,15 +145,27 @@ Here's an example of a template that uses one page for each month, one line for 
 | (2) Strength     | / |   |   |   | / |   |   | ... |    | /  |
 | (3) Floss        | / |   | / |   | / | / |   | ... | /  |    |
 | (2) Social calls |   |   |   | / |   |   | / | ... |    |    |
-| (3) Language     |   |   |   | / |   |   | / | ... |    |    |
-| (W) Blog         |   |   |   | / |   |   | / | ... |    |    |
+| (3) Language     |   |   |   | / |   |   | / | ... | /  |    |
+| (W) Meal prep    | / |   |   |   |   |   |   | ... |    |    |
+| (W) Blog         |   |   |   |   |   |   | / | ... |    |    |
+| (W) Chores       |   |   |   |   |   |   | / | ... |    |    |
 
-It's probably best to start simple and not over-complicate the system, but I've also indicated whether the habit target is daily (D), weekly (W), or some number of times per week. Longer time periods like monthly habits might make more sense to schedule for a certain day on a calendar instead. Finally, I also used different marks for some habits, where / indicates a normal cardio workout and x indicates an intense one (HIIT).
+<details>
+  <summary>It's best to keep it simple, but here are some more ideas you might use</summary>
+  
+  I've indicated whether the habit target is daily (D), weekly (W), or some number of times per week. Longer time periods like monthly habits might make more sense to schedule for a certain day on a calendar instead. I used different marks for some habits, where / indicates a normal cardio workout and x indicates an intense one (HIIT). The habits can be arranged vertically by frequency, grouped together based on similar goals or values, color coded, etc. But do remember to keep it simple so it's very fast and easy to update each day and you don't need to remember a lot of details while using it.
+</details>
+
+> Choose a few habits to make progress toward your goals and create a template for tracking, preferably using pen and paper.
 
 ## Adjust as needed
 
 Drift, auditing the honesty/accuracy to make sure it doesn’t just become about checking boxes,
 
-## Worked examples
+## Habit suggestions
 
-Some of my habits
+I'll conclude with a few habits that I've personally found very beneficial. I'd be happy to hear from you if you have suggestions!
+
+- "[Nutritious movement](https://www.youtube.com/watch?v=eeN8efGa6C0)" throughout the day and with a variety of cardio and strength
+- Regularly scheduled reminders to catch up with social connections
+- Going for an aimless walk, preferably in nature
