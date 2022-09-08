@@ -15,6 +15,35 @@ The strategy involves four correlated processes that you can start anytime and a
 - Track habits that progress toward goals
 - Periodically adjust (not too often)
 
+There are explanations and tips about each of these below, but first let's look at a simple example so we have a picture in mind of how it works.
+
+### Example
+
+#### My values
+
+Health, learning, connection, achievement
+
+#### My goals
+
+- Be the kind of person who exercises regularly, eats well, and takes care of my mind and environment
+- Be the kind of person who writes to reinforce learning, learns new languages,
+
+#### My habit tracker
+
+| August           | 1 | 2 | 3 | 4 | 5 | 6 | 7 | ... | 30 | 31 |
+| ---------------- |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:---:|:--:|:--:|
+| (D) Journal      | / | / |   | / | / | / | / | ... | /  | /  |
+| (5) Cardio       |   | / | / | x |   | / |   | ... |    | /  |
+| (2) Strength     | / |   |   |   | / |   |   | ... |    | /  |
+| (W) Meal prep    | / |   |   |   |   |   |   | ... |    |    |
+| (W) Chores       |   |   |   |   |   |   | / | ... |    |    |
+| (4) Work writing |   |   | / | / |   | / | / | ... | /  |    |
+| (3) Language     |   |   |   | / |   |   | / | ... | /  |    |
+| (W) Blog         |   |   |   |   |   |   | / | ... |    |    |
+| (2) Social calls |   |   |   | / |   |   | / | ... |    |    |
+
+### Understanding each process
+
 Throughout this guide there are expandable sections with additional explanations or examples. These extra credit sections look like the two lines below and **you can expand them by clicking on them, but I suggest reading through without expanding any of them at first**. You can come back afterward to dive deeper in any section as you wish, perhaps when doing a periodic adjustment after the first week or month of tracking. 
 
 <details>
@@ -130,23 +159,7 @@ I’m using pages of the habit tracker template by James Clear
 
 https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habit+Tracker.pdf  
 
-It looks something like the table below which gives an immediate visual sense of how much each habit is on track, and whether any of them need more attention and effort.
-
-It can be kept simple with just a few habits and a single mark on each day that habit was done, or made more complicated with several  and using different kinds of marks for different degrees of success.
-
-
-| August           | 1 | 2 | 3 | 4 | 5 | 6 | 7 | ... | 30 | 31 |
-| ---------------- |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:---:|:--:|:--:|
-| (D) Journal      | / | / |   | / | / | / | / | ... | /  | /  |
-| (5) Cardio       |   | / | / | x |   | / |   | ... |    | /  |
-| (4) Work writing |   |   | / | / |   | / | / | ... | /  |    |
-| (2) Strength     | / |   |   |   | / |   |   | ... |    | /  |
-| (3) Floss        | / |   | / |   | / | / |   | ... | /  |    |
-| (2) Social calls |   |   |   | / |   |   | / | ... |    |    |
-| (3) Language     |   |   |   | / |   |   | / | ... | /  |    |
-| (W) Meal prep    | / |   |   |   |   |   |   | ... |    |    |
-| (W) Blog         |   |   |   |   |   |   | / | ... |    |    |
-| (W) Chores       |   |   |   |   |   |   | / | ... |    |    |
+It looks something like the table in the intro section. This gives an immediate visual sense of how much each habit is on track, and whether any of them need more attention and effort.
 
 <details>
   <summary>It's best to keep it simple, but here are some more ideas you might use</summary>
