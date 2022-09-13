@@ -2,7 +2,7 @@
 
 ## Habit tracking based on goals and values
 
-This is a quickstart guide to a practical way of trying to live better. It’s based on things I’ve learned from various sources[^1] and personal experiences[^2].
+This is a quickstart guide to a practical way of trying to live better. It’s based on things I’ve learned from various sources and personal experiences.
 
 ###  Backstory
 
@@ -12,9 +12,7 @@ Too often in life I've felt like I was losing track of important things or not l
 - [x] Bit of intro story about why I wrote this and why anyone should care and read this instead of literally any random linkedin post
 - [ ] Priorities may not need to be tracked, think about added value of tracking
 
-[^1]: I’ve combined and simplified some ideas including goal hierarchy and other tips from [Stronger By Science](https://www.strongerbyscience.com/goal-setting/), making the goal hierarchy about values and actions based on [Acceptance and Commitment Therapy](https://en.wikipedia.org/wiki/Acceptance_and_commitment_therapy#Core_principles) (h/t also to [Diana Hill and Katie Bowman](https://drdianahill.com/captivate-podcast/how-to-move-your-body-more-nutritiously-with-katy-bowman/), and habit tracking and other tips from [James Clear](https://jamesclear.com/habit-tracker).
 
-[^2]: Basically trying to manage work-life balance in an academic career, a decade of maintaining rigorous exercise habits, and some more recent successes with reading and journaling.
 
 ### System overview
 
@@ -27,7 +25,9 @@ The strategy involves four correlated processes that you can start anytime and a
 
 #### Making a difference
 
-One of the most common mistakes is to use a system for doing something when no system is necessary. This is a counter-intuitive point: you might not need to track habits related to your highest priorities. If you aren't struggling with neglecting those, then you may benefit more by tracking habits related to lower priorities and things you forget or would not do if you didn't track them. As you make choices in your version of this sytem, ask yourself "**what difference will this make compared to what I would do otherwise?**" 
+One of the most common mistakes is to use a system for doing something when no system is necessary. This is a counter-intuitive point: you might not need to track habits related to your highest priorities. If you aren't struggling with neglecting those, then you may benefit more by tracking habits related to lower priorities and things you forget or would not do if you didn't track them.
+
+> As you make choices in your version of this sytem, ask yourself "**what difference will this make compared to what I would do otherwise?**" 
 
 Let's now look at a simple example so we have a picture in mind of how it works, and then we'll go into more detail about the process.
 
@@ -35,12 +35,12 @@ Let's now look at a simple example so we have a picture in mind of how it works,
 
 #### Some values
 
-Health, learning, connection, achievement.
+Health, learning, connection
 
 #### Some goals
 
-- Be the kind of person who exercises regularly, eats well, and takes care of their mind and environment.
-- Be the kind of person who writes to reinforce learning, learns new languages.
+- Be the kind of person who exercises and writes (almost) every day.
+- Be the kind of person who learns new languages.
 - Be the kind of person who stays in touch with friends and family members and has an active social life.
 
 #### Habit tracker
@@ -51,7 +51,7 @@ This uses one page each month, one line for each habit, one column for each day,
 |--------------|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:---:|:--:|:--:|
 | Journal      | x | x |   | x | x | x | x | ... | x  | x  |
 | Movement     |   | x | x | x |   | x |   | ... |    | x  |
-| Language     |   |   |   | x |   |   | x | ... | x  |    |
+| Language     |   | x |   | x |   |   | x | ... | x  |    |
 | Social calls |   |   |   | x |   |   | x | ... |    |    |
 
 
@@ -207,6 +207,14 @@ These are a few habits I've personally found very beneficial. I'd be happy to he
 - Start now, don't wait for better starting conditions.
 - Come back here in a week or two and read some of the expandable sections when doing your first periodic adjustment. Decrease frequency of adjustments after that.
 - Try to change your sense of self and develop an identity around your values and goals, and be socially open about this. I would personally be happy to hear from anyone who is trying to live better this way and finds it beneficial.
+
+## References/resources
+
+My relevant background involves trying to manage work-life balance in an academic career, a decade of maintaining rigorous exercise habits, and some more recent successes with journaling and a few other habits. I've combined and simplified ideas from several sources that I consider high quality and evidence-based:
+
+- Goal hierarchy and other tips from [Stronger By Science](https://www.strongerbyscience.com/goal-setting/) (generally good for exercise and diet information)
+- Making the goal hierarchy about values and actions based on [Acceptance and Commitment Therapy](https://en.wikipedia.org/wiki/Acceptance_and_commitment_therapy#Core_principles) (h/t also to [Diana Hill and Katie Bowman](https://drdianahill.com/captivate-podcast/how-to-move-your-body-more-nutritiously-with-katy-bowman/), generally good on mental and physical health)
+- Habit tracking and other tips from [James Clear](https://jamesclear.com/habit-tracker)
 
 <details>
   <summary>Appendix: a more complex example</summary>
