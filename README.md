@@ -2,13 +2,21 @@
 
 ## Habit tracking based on goals and values
 
-This is a quickstart guide to a practical way of trying to live better. It’s based on things I’ve learned from various sources[^1] and life experiences[^2], and I hope it will be useful to you.
+This is a quickstart guide to a practical way of trying to live better. It’s based on things I’ve learned from various sources[^1] and personal experiences[^2].
 
-TODO: bit of intro story about why I wrote this and why anyone should care and read this instead of literally any random linkedin post
+###  Backstory
+
+Too often in life I've felt like I was losing track of important things or not living up to my potential. I noticed this happening more during and after the disruptions of the pandemic. So, I read many books, articles, blogs, and so on, about productivity, self-help, and living well, and I tried out a variety of habits and systems. It's a difficult topic for finding practical, good quality information, because there's a lot of noise and not much signal. Many of the sources are trying to get famous or sell something. Much of the content that's easiest to sell includes bad ideas: comforting excuses or the self-help equivalent of junk food. This is my attempt to distill down a small number of the best ideas into a simple system that you can quickly begin to use and adapt to your purposes. I have nothing to sell, no product referrals, and no algorithm to optimize by taking up more of your time. 
+
+**TODO**
+- [x] Bit of intro story about why I wrote this and why anyone should care and read this instead of literally any random linkedin post
+- [ ] Priorities may not need to be tracked, think about added value of tracking
 
 [^1]: I’ve combined and simplified some ideas including goal hierarchy and other tips from [Stronger By Science](https://www.strongerbyscience.com/goal-setting/), making the goal hierarchy about values and actions based on [Acceptance and Commitment Therapy](https://en.wikipedia.org/wiki/Acceptance_and_commitment_therapy#Core_principles) (h/t also to [Diana Hill and Katie Bowman](https://drdianahill.com/captivate-podcast/how-to-move-your-body-more-nutritiously-with-katy-bowman/), and habit tracking and other tips from [James Clear](https://jamesclear.com/habit-tracker).
 
 [^2]: Basically trying to manage work-life balance in an academic career, a decade of maintaining rigorous exercise habits, and some more recent successes with reading and journaling.
+
+### System overview
 
 The strategy involves four correlated processes that you can start anytime and adapt to your life and intentions.
 
@@ -17,7 +25,11 @@ The strategy involves four correlated processes that you can start anytime and a
 - Track habits that progress toward goals.
 - Periodically adjust (not too often).
 
-Let's look at a simple example so we have a picture in mind of how it works, and then we'll go into more detail about the process.
+#### Making a difference
+
+One of the most common mistakes is to use a system for doing something when no system is necessary. This is a counter-intuitive point: you might not need to track habits related to your highest priorities. If you aren't struggling with neglecting those, then you may benefit more by tracking habits related to lower priorities and things you forget or would not do if you didn't track them. As you make choices in your version of this sytem, ask yourself "**what difference will this make compared to what I would do otherwise?**" 
+
+Let's now look at a simple example so we have a picture in mind of how it works, and then we'll go into more detail about the process.
 
 ### Example
 
@@ -35,17 +47,12 @@ Health, learning, connection, achievement.
 
 This uses one page each month, one line for each habit, one column for each day, and some mark to indicate success for that habit on that day.
 
-| August           | 1 | 2 | 3 | 4 | 5 | 6 | 7 | ... | 30 | 31 |
-| ---------------- |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:---:|:--:|:--:|
-| (D) Journal      | x | x |   | x | x | x | x | ... | x  | x  |
-| (5) Cardio       |   | x | x | x |   | x |   | ... |    | x  |
-| (2) Strength     | x |   |   |   | x |   |   | ... |    | x  |
-| (W) Meal prep    | x |   |   |   |   |   |   | ... |    |    |
-| (W) Chores       |   |   |   |   |   |   | x | ... |    | x  |
-| (4) Work writing |   |   | x | x |   | x | x | ... |    |    |
-| (3) Language     |   |   |   | x |   |   | x | ... | x  |    |
-| (W) Blog         |   |   |   |   |   |   | x | ... |    |    |
-| (2) Social calls |   |   |   | x |   |   | x | ... |    |    |
+| August       | 1 | 2 | 3 | 4 | 5 | 6 | 7 | ... | 30 | 31 |
+|--------------|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:---:|:--:|:--:|
+| Journal      | x | x |   | x | x | x | x | ... | x  | x  |
+| Movement     |   | x | x | x |   | x |   | ... |    | x  |
+| Language     |   |   |   | x |   |   | x | ... | x  |    |
+| Social calls |   |   |   | x |   |   | x | ... |    |    |
 
 
 
@@ -164,12 +171,6 @@ I’ve tried to start various exercise habits over the years and they never stuc
 
 I’m using pages of the [habit tracker template](https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habit+Tracker.pdf ) by James Clear. It looks something like the table in the intro section. This gives an immediate visual sense of how much each habit is on track, and whether any of them need more attention and effort.
 
-<details>
-  <summary>It's best to keep it simple, but here are some more ideas you might use.</summary>
-  
-  I've indicated whether the habit target is daily (D), weekly (W), or some number of times per week. Longer time periods like monthly habits might make more sense to schedule for a certain day on a calendar instead. I used different marks for some habits, where / indicates a normal cardio workout and x indicates an intense one (HIIT). The habits can be arranged vertically by frequency, grouped together based on similar goals or values, color coded, etc. But do remember to keep it simple so it's very fast and easy to update each day and you don't need to remember a lot of details while using it.
-</details>
-
 > Choose a few habits to make progress toward your goals and create a template for tracking, preferably using pen and paper.
 
 ## Adjust periodically or as needed.
@@ -200,9 +201,31 @@ These are a few habits I've personally found very beneficial. I'd be happy to he
 
 ## Getting started.
 
-- Start small, maybe with 3-5 habits based on 2-3 goals and 1-2 values.
+- Start small, maybe with 2-4 habits based on 1-3 goals and 1-2 values.
 - Focus more on habits at first and don't overthink goals or values. The hierarchy becomes more helpful later when making adjustments.
 - Keep it simple, like with this [template](https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habit+Tracker.pdf). It should only take a few seconds to check boxes each day.
 - Start now, don't wait for better starting conditions.
 - Come back here in a week or two and read some of the expandable sections when doing your first periodic adjustment. Decrease frequency of adjustments after that.
 - Try to change your sense of self and develop an identity around your values and goals, and be socially open about this. I would personally be happy to hear from anyone who is trying to live better this way and finds it beneficial.
+
+<details>
+  <summary>Appendix: a more complex example</summary>
+  
+  It's best to keep it simple, but here are some more ideas you might use. I've indicated whether the habit target is daily (D), weekly (W), or some number of times per week. Longer time periods like monthly habits might make more sense to schedule for a certain day on a calendar instead. I used different marks for some habits, where / indicates a normal cardio workout and x indicates an intense one (HIIT). The habits can be arranged vertically by frequency, grouped together based on similar goals or values, color coded, etc. But do remember to keep it simple so it's very fast and easy to update each day and you don't need to remember a lot of details while using it.
+  
+  
+
+| August           | 1 | 2 | 3 | 4 | 5 | 6 | 7 | ... | 30 | 31 |
+| ---------------- |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:---:|:--:|:--:|
+| (D) Journal      | x | x |   | x | x | x | x | ... | x  | x  |
+| (5) Cardio       |   | x | x | x |   | x |   | ... |    | x  |
+| (2) Strength     | x |   |   |   | x |   |   | ... |    | x  |
+| (W) Meal prep    | x |   |   |   |   |   |   | ... |    |    |
+| (W) Chores       |   |   |   |   |   |   | x | ... |    | x  |
+| (4) Work writing |   |   | x | x |   | x | x | ... |    |    |
+| (3) Language     |   |   |   | x |   |   | x | ... | x  |    |
+| (W) Blog         |   |   |   |   |   |   | x | ... |    |    |
+| (2) Social calls |   |   |   | x |   |   | x | ... |    |    |
+
+</details>
+
