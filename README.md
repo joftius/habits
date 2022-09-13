@@ -8,12 +8,6 @@ This is a quickstart guide to a practical way of trying to live better. It’s b
 
 Too often in life I've felt like I was losing track of important things or not living up to my potential. I noticed this happening more during and after the disruptions of the pandemic. So, I read many books, articles, blogs, and so on, about productivity, self-help, and living well, and I tried out a variety of habits and systems. It's a difficult topic for finding practical, good quality information, because there's a lot of noise and not much signal. Many of the sources are trying to get famous or sell something. Much of the content that's easiest to sell includes bad ideas: comforting excuses or the self-help equivalent of junk food. This is my attempt to distill down a small number of the best ideas into a simple system that you can quickly begin to use and adapt to your purposes. I have nothing to sell, no product referrals, and no algorithm to optimize by taking up more of your time. 
 
-**TODO**
-- [x] Bit of intro story about why I wrote this and why anyone should care and read this instead of literally any random linkedin post
-- [ ] Priorities may not need to be tracked, think about added value of tracking
-
-
-
 ### System overview
 
 The strategy involves four correlated processes that you can start anytime and adapt to your life and intentions.
